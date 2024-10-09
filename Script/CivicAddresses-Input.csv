@@ -1,0 +1,8 @@
+City,CityAlias,CompanyName,CountryOrRegion,CountyOrDistrict,DefaultLocationId,Description,Elin,HouseNumber,HouseNumberSuffix,Latitude,Longitude,PostDirectional,PostalCode,PreDirectional,StateOrProvince,StreetName,StreetSuffix,TenantId
+San Francisco,,San Francisco HQ1,US,,,San Francisco HQ1,,555,,,,,94104,,CA,California Street,,
+Pierre,,State of SouthDakota,US,,,South Dakota office,,700,,,,,57501,,SD,Governors Drive,,
+Lafayette,,HQ1,US,,,HQ1 Office Address,,3301,,,,,94549,N,CA,Lucille Lane,,
+Lafayette,,HQ2,US,,,HQ2 Office Address,,3301,,,,,94549,,CA,N Lucille Lane,,
+Lafayette,,HQ3,US,,,HQ3 Office Address,,3301,,,,,94549,N,CA,Lucille,Lane,
+Lafayette,,HQ4,US,,,HQ4 Office Address,,3301,,,,,94549,,CA,N Lucille,Lane,
+Lafayette,,HQ5,US,,,HQ5 Office Address,,3301,,,,,94549,N,CA,Lucille Lane,Lane,
